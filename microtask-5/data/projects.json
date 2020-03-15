@@ -1,0 +1,16 @@
+{
+    "grimoire": {
+        "git": [
+            "https://gitlab.com/mailman/mailman"
+        ],
+        "github": [
+            "https://github.com/chaoss/grimoirelab-elk"
+        ],
+        "*github:pull": [
+            "https://github.com/chaoss/grimoirelab-elk"
+        ],
+        "github:repo": [
+            "https://github.com/chaoss/grimoirelab-elk"
+        ]
+    }
+}
