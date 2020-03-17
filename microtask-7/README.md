@@ -17,17 +17,13 @@ npm install elasticdump -g
 elasticdump
 
 ```
-2 . To store the mapping of ElasticSearch index in a file [git_chaoss_enriched_mapping.json](./data/git_chaoss_enriched_mapping.json) run the below command.
- Here `git_echaoss_enriched` is the index whose mapping is to be stored.
-``` 
-sudo elasticdump   --input=http://localhost:9200/git_chaoss_enriched   --output=./../data/git_chaoss_enriched_mapping.json   --type=mapping
 
-```    
+2. Run the srcipt [elasticdump_script](./elasticdump_script) using the below command:
 
-3 . To store the data of ElasticSearch index in a file [git_chaoss_enriched_data.json](./data/git_chaoss_enriched_data.json) run the below command.
- Here `git_echaoss_enriched` is the index whose mapping is to be stored.
-``` 
-sudo elasticdump   --input=http://localhost:9200/git_chaoss_enriched   --output=./../data/git_chaoss_enriched_data.json   --type=data
+   `./elasticdump_script`
 
-```
+This will create a file [git_chaoss_enriched_mapping.json](./data/git_chaoss_enriched_mapping.json) having the mapping of ElasticSearch index,
+and a file [git_chaoss_enriched_data.json](./data/git_chaoss_enriched_data.json) having the data of ElasticSearch index.
+
+> In the script `git_chaoss_enriched` is the index whose mapping is to be stored.
 

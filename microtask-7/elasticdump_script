@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo elasticdump   --input=http://localhost:9200/git_chaoss_enriched   --output=./data/git_chaoss_enriched_mapping.json  --type=mapping
+sudo elasticdump   --input=http://localhost:9200/git_chaoss_enriched   --output=./data/git_chaoss_enriched_data.json   --type=data
+
