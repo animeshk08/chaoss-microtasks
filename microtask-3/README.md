@@ -60,6 +60,8 @@ try to answer the following questions:
     backend include, `id`,`owner` and `repo`. The 'search_fields'
     for [GitLab](https://github.com/chaoss/grimoirelab-perceval/blob/75be46b381f30440efeba7497f6756e64d26a0d9/perceval/backends/core/gitlab.py#L142)
     backend include, `id`, `owner`, `iid`, `project` and `groups`.
+    Search fields are useful to avoid inspecting the content of
+    the data attribute, since they expose a set of attributes to ease search operations.
 
 
 * What is stored in the attribute data of each JSON document produced by Perceval?
