@@ -1,8 +1,8 @@
 {
   "backend_name": "GitHub",
-  "backend_version": "0.24.0",
+  "backend_version": "0.25.1",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918325.64617,
+  "timestamp": 1584463761.78421,
   "origin": "https://github.com/chaoss/grimoirelab-perceval",
   "uuid": "36898497b4d4416a755abff70f3880ae305eb5b6",
   "updated_on": 1583685860.0,
@@ -155,14 +155,14 @@
         "releases_url": "https://api.github.com/repos/vchrombie/grimoirelab-perceval/releases{/id}",
         "deployments_url": "https://api.github.com/repos/vchrombie/grimoirelab-perceval/deployments",
         "created_at": "2019-03-01T06:14:28Z",
-        "updated_at": "2020-03-08T20:14:49Z",
-        "pushed_at": "2020-03-09T04:59:16Z",
+        "updated_at": "2020-03-13T12:49:25Z",
+        "pushed_at": "2020-03-13T12:49:23Z",
         "git_url": "git://github.com/vchrombie/grimoirelab-perceval.git",
         "ssh_url": "git@github.com:vchrombie/grimoirelab-perceval.git",
         "clone_url": "https://github.com/vchrombie/grimoirelab-perceval.git",
         "svn_url": "https://github.com/vchrombie/grimoirelab-perceval",
         "homepage": "",
-        "size": 3201,
+        "size": 3160,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "Python",
@@ -280,27 +280,27 @@
         "releases_url": "https://api.github.com/repos/chaoss/grimoirelab-perceval/releases{/id}",
         "deployments_url": "https://api.github.com/repos/chaoss/grimoirelab-perceval/deployments",
         "created_at": "2015-12-04T16:20:11Z",
-        "updated_at": "2020-03-08T18:45:52Z",
-        "pushed_at": "2020-03-09T04:59:18Z",
+        "updated_at": "2020-03-13T07:39:12Z",
+        "pushed_at": "2020-03-17T15:44:21Z",
         "git_url": "git://github.com/chaoss/grimoirelab-perceval.git",
         "ssh_url": "git@github.com:chaoss/grimoirelab-perceval.git",
         "clone_url": "https://github.com/chaoss/grimoirelab-perceval.git",
         "svn_url": "https://github.com/chaoss/grimoirelab-perceval",
         "homepage": "",
-        "size": 3149,
-        "stargazers_count": 159,
-        "watchers_count": 159,
+        "size": 3160,
+        "stargazers_count": 160,
+        "watchers_count": 160,
         "language": "Python",
         "has_issues": true,
         "has_projects": true,
         "has_downloads": true,
         "has_wiki": true,
         "has_pages": false,
-        "forks_count": 93,
+        "forks_count": 95,
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 50,
+        "open_issues_count": 49,
         "license": {
           "key": "gpl-3.0",
           "name": "GNU General Public License v3.0",
@@ -308,9 +308,9 @@
           "url": "https://api.github.com/licenses/gpl-3.0",
           "node_id": "MDc6TGljZW5zZTk="
         },
-        "forks": 93,
-        "open_issues": 50,
-        "watchers": 159,
+        "forks": 95,
+        "open_issues": 49,
+        "watchers": 160,
         "default_branch": "master"
       }
     },
@@ -398,12 +398,12 @@
       "email": "venuvardhanreddytekula8@gmail.com",
       "hireable": true,
       "bio": "Data Detective :chart_with_upwards_trend:",
-      "public_repos": 68,
+      "public_repos": 71,
       "public_gists": 8,
-      "followers": 107,
-      "following": 116,
+      "followers": 108,
+      "following": 118,
       "created_at": "2017-01-21T12:45:08Z",
-      "updated_at": "2020-03-10T21:22:50Z",
+      "updated_at": "2020-03-17T14:09:18Z",
       "organizations": [
         {
           "login": "amfoss",
@@ -550,12 +550,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -672,7 +672,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -813,7 +813,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -911,12 +911,12 @@
               "email": "venuvardhanreddytekula8@gmail.com",
               "hireable": true,
               "bio": "Data Detective :chart_with_upwards_trend:",
-              "public_repos": 68,
+              "public_repos": 71,
               "public_gists": 8,
-              "followers": 107,
-              "following": 116,
+              "followers": 108,
+              "following": 118,
               "created_at": "2017-01-21T12:45:08Z",
-              "updated_at": "2020-03-10T21:22:50Z",
+              "updated_at": "2020-03-17T14:09:18Z",
               "organizations": [
                 {
                   "login": "amfoss",
@@ -1066,12 +1066,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1225,7 +1225,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -1360,12 +1360,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1519,7 +1519,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -1653,12 +1653,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1775,7 +1775,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -1916,7 +1916,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2014,12 +2014,12 @@
               "email": "venuvardhanreddytekula8@gmail.com",
               "hireable": true,
               "bio": "Data Detective :chart_with_upwards_trend:",
-              "public_repos": 68,
+              "public_repos": 71,
               "public_gists": 8,
-              "followers": 107,
-              "following": 116,
+              "followers": 108,
+              "following": 118,
               "created_at": "2017-01-21T12:45:08Z",
-              "updated_at": "2020-03-10T21:22:50Z",
+              "updated_at": "2020-03-17T14:09:18Z",
               "organizations": [
                 {
                   "login": "amfoss",
@@ -2091,7 +2091,7 @@
           "login": "vchrombie",
           "id": 25265451,
           "node_id": "MDQ6VXNlcjI1MjY1NDUx",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/25265451?v=4",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/25265451?u=a6d0e93f4aab2fea29424338d7aad9c92b5e9521&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/vchrombie",
           "html_url": "https://github.com/vchrombie",
@@ -2148,12 +2148,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2221,7 +2221,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -2283,7 +2283,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2337,7 +2337,7 @@
           "login": "vchrombie",
           "id": 25265451,
           "node_id": "MDQ6VXNlcjI1MjY1NDUx",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/25265451?v=4",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/25265451?u=a6d0e93f4aab2fea29424338d7aad9c92b5e9521&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/vchrombie",
           "html_url": "https://github.com/vchrombie",
@@ -2394,12 +2394,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2467,7 +2467,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -2529,7 +2529,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2583,7 +2583,7 @@
           "login": "vchrombie",
           "id": 25265451,
           "node_id": "MDQ6VXNlcjI1MjY1NDUx",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/25265451?v=4",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/25265451?u=a6d0e93f4aab2fea29424338d7aad9c92b5e9521&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/vchrombie",
           "html_url": "https://github.com/vchrombie",
@@ -2640,12 +2640,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2713,7 +2713,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -2775,7 +2775,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2829,7 +2829,7 @@
           "login": "vchrombie",
           "id": 25265451,
           "node_id": "MDQ6VXNlcjI1MjY1NDUx",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/25265451?v=4",
+          "avatar_url": "https://avatars0.githubusercontent.com/u/25265451?u=a6d0e93f4aab2fea29424338d7aad9c92b5e9521&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/vchrombie",
           "html_url": "https://github.com/vchrombie",
@@ -2886,12 +2886,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2959,7 +2959,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -3021,7 +3021,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3075,7 +3075,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -3137,7 +3137,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3217,7 +3217,7 @@
       "followers": 34,
       "following": 5,
       "created_at": "2014-01-27T14:30:30Z",
-      "updated_at": "2020-03-10T16:04:41Z",
+      "updated_at": "2020-03-17T10:02:44Z",
       "organizations": [
         {
           "login": "Bitergia",
@@ -3269,9 +3269,9 @@
   }
 }{
   "backend_name": "GitHub",
-  "backend_version": "0.24.0",
+  "backend_version": "0.25.1",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918329.516847,
+  "timestamp": 1584463765.880163,
   "origin": "https://github.com/chaoss/grimoirelab-perceval",
   "uuid": "6f709fe4621d4a84bb188cd9ef0b0b6577c50a7d",
   "updated_on": 1583692649.0,
@@ -3424,14 +3424,14 @@
         "releases_url": "https://api.github.com/repos/animeshk08/grimoirelab-perceval/releases{/id}",
         "deployments_url": "https://api.github.com/repos/animeshk08/grimoirelab-perceval/deployments",
         "created_at": "2020-02-24T04:25:42Z",
-        "updated_at": "2020-03-01T12:30:24Z",
-        "pushed_at": "2020-03-08T18:21:40Z",
+        "updated_at": "2020-03-17T15:43:52Z",
+        "pushed_at": "2020-03-17T15:43:48Z",
         "git_url": "git://github.com/animeshk08/grimoirelab-perceval.git",
         "ssh_url": "git@github.com:animeshk08/grimoirelab-perceval.git",
         "clone_url": "https://github.com/animeshk08/grimoirelab-perceval.git",
         "svn_url": "https://github.com/animeshk08/grimoirelab-perceval",
         "homepage": "",
-        "size": 3163,
+        "size": 3182,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "Python",
@@ -3549,27 +3549,27 @@
         "releases_url": "https://api.github.com/repos/chaoss/grimoirelab-perceval/releases{/id}",
         "deployments_url": "https://api.github.com/repos/chaoss/grimoirelab-perceval/deployments",
         "created_at": "2015-12-04T16:20:11Z",
-        "updated_at": "2020-03-08T18:45:52Z",
-        "pushed_at": "2020-03-09T04:59:18Z",
+        "updated_at": "2020-03-13T07:39:12Z",
+        "pushed_at": "2020-03-17T15:44:21Z",
         "git_url": "git://github.com/chaoss/grimoirelab-perceval.git",
         "ssh_url": "git@github.com:chaoss/grimoirelab-perceval.git",
         "clone_url": "https://github.com/chaoss/grimoirelab-perceval.git",
         "svn_url": "https://github.com/chaoss/grimoirelab-perceval",
         "homepage": "",
-        "size": 3149,
-        "stargazers_count": 159,
-        "watchers_count": 159,
+        "size": 3160,
+        "stargazers_count": 160,
+        "watchers_count": 160,
         "language": "Python",
         "has_issues": true,
         "has_projects": true,
         "has_downloads": true,
         "has_wiki": true,
         "has_pages": false,
-        "forks_count": 93,
+        "forks_count": 95,
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 50,
+        "open_issues_count": 49,
         "license": {
           "key": "gpl-3.0",
           "name": "GNU General Public License v3.0",
@@ -3577,9 +3577,9 @@
           "url": "https://api.github.com/licenses/gpl-3.0",
           "node_id": "MDc6TGljZW5zZTk="
         },
-        "forks": 93,
-        "open_issues": 50,
-        "watchers": 159,
+        "forks": 95,
+        "open_issues": 49,
+        "watchers": 160,
         "default_branch": "master"
       }
     },
@@ -3648,24 +3648,12 @@
       "email": null,
       "hireable": null,
       "bio": "Android| Data Science| Open Source",
-      "public_repos": 40,
+      "public_repos": 48,
       "public_gists": 0,
-      "followers": 4,
+      "followers": 5,
       "following": 2,
       "created_at": "2017-10-04T06:38:11Z",
-      "updated_at": "2020-03-11T00:33:49Z",
-      "private_gists": 0,
-      "total_private_repos": 5,
-      "owned_private_repos": 3,
-      "disk_usage": 117505,
-      "collaborators": 3,
-      "two_factor_authentication": false,
-      "plan": {
-        "name": "pro",
-        "space": 976562499,
-        "collaborators": 0,
-        "private_repos": 9999
-      },
+      "updated_at": "2020-03-17T15:31:35Z",
       "organizations": []
     },
     "review_comments_data": [
@@ -3760,7 +3748,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3899,7 +3887,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4038,7 +4026,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4177,7 +4165,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4316,7 +4304,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4455,7 +4443,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4594,7 +4582,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4733,7 +4721,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4872,7 +4860,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5011,7 +4999,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5150,7 +5138,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5289,7 +5277,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5428,7 +5416,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5567,7 +5555,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5706,7 +5694,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5845,7 +5833,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5984,7 +5972,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6123,7 +6111,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6262,7 +6250,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6401,7 +6389,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6540,7 +6528,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6679,7 +6667,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6818,7 +6806,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6957,7 +6945,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7096,7 +7084,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7235,7 +7223,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7374,7 +7362,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7513,7 +7501,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7648,24 +7636,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -7757,24 +7733,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -7834,7 +7798,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -7970,24 +7934,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -8084,7 +8036,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8223,7 +8175,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8362,7 +8314,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8501,7 +8453,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8640,7 +8592,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8779,7 +8731,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -8918,7 +8870,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9057,7 +9009,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9196,7 +9148,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9335,7 +9287,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9474,7 +9426,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9613,7 +9565,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9752,7 +9704,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -9891,7 +9843,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10030,7 +9982,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10169,7 +10121,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10308,7 +10260,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10447,7 +10399,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10586,7 +10538,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10725,7 +10677,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -10864,7 +10816,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11003,7 +10955,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11142,7 +11094,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11281,7 +11233,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11420,7 +11372,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11559,7 +11511,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11698,7 +11650,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11837,7 +11789,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -11976,7 +11928,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12115,7 +12067,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12254,7 +12206,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12393,7 +12345,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12532,7 +12484,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12671,7 +12623,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -12806,24 +12758,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -12915,24 +12855,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -13028,7 +12956,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13167,7 +13095,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13224,7 +13152,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -13286,7 +13214,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13340,7 +13268,7 @@
           "login": "animeshk08",
           "id": 32506591,
           "node_id": "MDQ6VXNlcjMyNTA2NTkx",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/32506591?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/32506591?u=9cbcc430031351f43b0c611e7cf19df84a8b488c&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/animeshk08",
           "html_url": "https://github.com/animeshk08",
@@ -13397,24 +13325,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         }
       },
@@ -13425,7 +13341,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -13487,7 +13403,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13541,7 +13457,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -13603,7 +13519,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13657,7 +13573,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -13719,7 +13635,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13773,7 +13689,7 @@
           "login": "animeshk08",
           "id": 32506591,
           "node_id": "MDQ6VXNlcjMyNTA2NTkx",
-          "avatar_url": "https://avatars1.githubusercontent.com/u/32506591?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/32506591?u=9cbcc430031351f43b0c611e7cf19df84a8b488c&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/animeshk08",
           "html_url": "https://github.com/animeshk08",
@@ -13830,24 +13746,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         }
       },
@@ -13858,7 +13762,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -13920,7 +13824,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -13974,7 +13878,7 @@
           "login": "valeriocos",
           "id": 6515067,
           "node_id": "MDQ6VXNlcjY1MTUwNjc=",
-          "avatar_url": "https://avatars2.githubusercontent.com/u/6515067?v=4",
+          "avatar_url": "https://avatars1.githubusercontent.com/u/6515067?u=8faaf11c054b78ac20f492bb634757233ccad9c4&v=4",
           "gravatar_id": "",
           "url": "https://api.github.com/users/valeriocos",
           "html_url": "https://github.com/valeriocos",
@@ -14036,7 +13940,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",

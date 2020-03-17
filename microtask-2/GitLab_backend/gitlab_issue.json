@@ -1,8 +1,8 @@
 {
   "backend_name": "GitLab",
-  "backend_version": "0.11.0",
+  "backend_version": "0.12.0",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918433.417551,
+  "timestamp": 1584463910.059577,
   "origin": "https://gitlab.com/nsnam/ns-3-dev",
   "uuid": "9dfc34ae8d7759996f454560411746c1cbaa9129",
   "updated_on": 1583845576.352,
@@ -278,103 +278,9 @@
   }
 }{
   "backend_name": "GitLab",
-  "backend_version": "0.11.0",
+  "backend_version": "0.12.0",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918434.231878,
-  "origin": "https://gitlab.com/nsnam/ns-3-dev",
-  "uuid": "31c00c532fefec9c3da25c103e31939197a3e427",
-  "updated_on": 1583858628.184,
-  "classified_fields_filtered": null,
-  "category": "issue",
-  "search_fields": {
-    "item_id": "31840102",
-    "owner": "nsnam",
-    "iid": 160,
-    "project": "ns-3-dev",
-    "groups": null
-  },
-  "tag": "https://gitlab.com/nsnam/ns-3-dev",
-  "data": {
-    "id": 31840102,
-    "iid": 160,
-    "project_id": 7128405,
-    "title": "CI/CD doesn't test clang-11",
-    "description": "clang-11, a.k.a. Xcode for MacOS.\n\n```\ngcc --version\nConfigured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/4.2.1\nApple clang version 11.0.0 (clang-1100.0.33.17)\nTarget: x86_64-apple-darwin19.3.0\nThread model: posix\nInstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin\n```",
-    "state": "opened",
-    "created_at": "2020-03-10T16:43:48.184Z",
-    "updated_at": "2020-03-10T16:43:48.184Z",
-    "closed_at": null,
-    "closed_by": null,
-    "labels": [],
-    "milestone": null,
-    "assignees": [
-      {
-        "id": 2478411,
-        "name": "N.",
-        "username": "natale-p",
-        "state": "active",
-        "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
-        "web_url": "https://gitlab.com/natale-p"
-      }
-    ],
-    "author": {
-      "id": 3252122,
-      "name": "Tommaso Pecorella",
-      "username": "tommypec",
-      "state": "active",
-      "avatar_url": "https://secure.gravatar.com/avatar/96371c68958a0b5f2c056bf45a7ba86c?s=80&d=identicon",
-      "web_url": "https://gitlab.com/tommypec"
-    },
-    "assignee": {
-      "id": 2478411,
-      "name": "N.",
-      "username": "natale-p",
-      "state": "active",
-      "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
-      "web_url": "https://gitlab.com/natale-p"
-    },
-    "user_notes_count": 0,
-    "merge_requests_count": 0,
-    "upvotes": 0,
-    "downvotes": 0,
-    "due_date": null,
-    "confidential": false,
-    "discussion_locked": null,
-    "web_url": "https://gitlab.com/nsnam/ns-3-dev/-/issues/160",
-    "time_stats": {
-      "time_estimate": 0,
-      "total_time_spent": 0,
-      "human_time_estimate": null,
-      "human_total_time_spent": null
-    },
-    "task_completion_status": {
-      "count": 0,
-      "completed_count": 0
-    },
-    "weight": null,
-    "has_tasks": false,
-    "_links": {
-      "self": "https://gitlab.com/api/v4/projects/7128405/issues/160",
-      "notes": "https://gitlab.com/api/v4/projects/7128405/issues/160/notes",
-      "award_emoji": "https://gitlab.com/api/v4/projects/7128405/issues/160/award_emoji",
-      "project": "https://gitlab.com/api/v4/projects/7128405"
-    },
-    "references": {
-      "short": "#160",
-      "relative": "#160",
-      "full": "nsnam/ns-3-dev#160"
-    },
-    "moved_to_id": null,
-    "epic_iid": null,
-    "epic": null,
-    "notes_data": [],
-    "award_emoji_data": []
-  }
-}{
-  "backend_name": "GitLab",
-  "backend_version": "0.11.0",
-  "perceval_version": "0.12.24",
-  "timestamp": 1583918435.053545,
+  "timestamp": 1584463911.446127,
   "origin": "https://gitlab.com/nsnam/ns-3-dev",
   "uuid": "a1f001570f006c0fcff8d4028504fa7226ac0fa4",
   "updated_on": 1583864157.215,
@@ -467,9 +373,9 @@
   }
 }{
   "backend_name": "GitLab",
-  "backend_version": "0.11.0",
+  "backend_version": "0.12.0",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918470.582611,
+  "timestamp": 1584463974.981615,
   "origin": "https://gitlab.com/nsnam/ns-3-dev",
   "uuid": "c571fa7a8d4b7124c2249d4aac3c97080d8015be",
   "updated_on": 1583917872.471,
@@ -2279,6 +2185,152 @@
         "noteable_type": "Issue",
         "resolvable": false,
         "noteable_iid": 136,
+        "award_emoji_data": []
+      }
+    ],
+    "award_emoji_data": []
+  }
+}{
+  "backend_name": "GitLab",
+  "backend_version": "0.12.0",
+  "perceval_version": "0.12.24",
+  "timestamp": 1584463977.438618,
+  "origin": "https://gitlab.com/nsnam/ns-3-dev",
+  "uuid": "31c00c532fefec9c3da25c103e31939197a3e427",
+  "updated_on": 1584018427.381,
+  "classified_fields_filtered": null,
+  "category": "issue",
+  "search_fields": {
+    "item_id": "31840102",
+    "owner": "nsnam",
+    "iid": 160,
+    "project": "ns-3-dev",
+    "groups": null
+  },
+  "tag": "https://gitlab.com/nsnam/ns-3-dev",
+  "data": {
+    "id": 31840102,
+    "iid": 160,
+    "project_id": 7128405,
+    "title": "CI/CD doesn't test clang-11",
+    "description": "clang-11, a.k.a. Xcode for MacOS.\n\n```\ngcc --version\nConfigured with: --prefix=/Applications/Xcode.app/Contents/Developer/usr --with-gxx-include-dir=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/4.2.1\nApple clang version 11.0.0 (clang-1100.0.33.17)\nTarget: x86_64-apple-darwin19.3.0\nThread model: posix\nInstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin\n```",
+    "state": "closed",
+    "created_at": "2020-03-10T16:43:48.184Z",
+    "updated_at": "2020-03-12T13:07:07.381Z",
+    "closed_at": "2020-03-12T13:07:07.318Z",
+    "closed_by": {
+      "id": 2478411,
+      "name": "N.",
+      "username": "natale-p",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
+      "web_url": "https://gitlab.com/natale-p"
+    },
+    "labels": [],
+    "milestone": null,
+    "assignees": [
+      {
+        "id": 2478411,
+        "name": "N.",
+        "username": "natale-p",
+        "state": "active",
+        "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
+        "web_url": "https://gitlab.com/natale-p"
+      }
+    ],
+    "author": {
+      "id": 3252122,
+      "name": "Tommaso Pecorella",
+      "username": "tommypec",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/96371c68958a0b5f2c056bf45a7ba86c?s=80&d=identicon",
+      "web_url": "https://gitlab.com/tommypec"
+    },
+    "assignee": {
+      "id": 2478411,
+      "name": "N.",
+      "username": "natale-p",
+      "state": "active",
+      "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
+      "web_url": "https://gitlab.com/natale-p"
+    },
+    "user_notes_count": 1,
+    "merge_requests_count": 0,
+    "upvotes": 0,
+    "downvotes": 0,
+    "due_date": null,
+    "confidential": false,
+    "discussion_locked": null,
+    "web_url": "https://gitlab.com/nsnam/ns-3-dev/-/issues/160",
+    "time_stats": {
+      "time_estimate": 0,
+      "total_time_spent": 0,
+      "human_time_estimate": null,
+      "human_total_time_spent": null
+    },
+    "task_completion_status": {
+      "count": 0,
+      "completed_count": 0
+    },
+    "weight": null,
+    "has_tasks": false,
+    "_links": {
+      "self": "https://gitlab.com/api/v4/projects/7128405/issues/160",
+      "notes": "https://gitlab.com/api/v4/projects/7128405/issues/160/notes",
+      "award_emoji": "https://gitlab.com/api/v4/projects/7128405/issues/160/award_emoji",
+      "project": "https://gitlab.com/api/v4/projects/7128405"
+    },
+    "references": {
+      "short": "#160",
+      "relative": "#160",
+      "full": "nsnam/ns-3-dev#160"
+    },
+    "moved_to_id": null,
+    "epic_iid": null,
+    "epic": null,
+    "notes_data": [
+      {
+        "id": 303894858,
+        "type": null,
+        "body": "closed via commit aa714a54c6d763d993e4f1cfe7b5c9110f8981f7",
+        "attachment": null,
+        "author": {
+          "id": 2478411,
+          "name": "N.",
+          "username": "natale-p",
+          "state": "active",
+          "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
+          "web_url": "https://gitlab.com/natale-p"
+        },
+        "created_at": "2020-03-12T13:07:07.431Z",
+        "updated_at": "2020-03-12T13:07:07.433Z",
+        "system": true,
+        "noteable_id": 31840102,
+        "noteable_type": "Issue",
+        "resolvable": false,
+        "noteable_iid": 160,
+        "award_emoji_data": []
+      },
+      {
+        "id": 303896366,
+        "type": null,
+        "body": "I don't know what is CLANG 11. Anyway, we test now up to clang 9, which is the latest available on the clang website... I hope that will be ok",
+        "attachment": null,
+        "author": {
+          "id": 2478411,
+          "name": "N.",
+          "username": "natale-p",
+          "state": "active",
+          "avatar_url": "https://secure.gravatar.com/avatar/e33019e1a35ee6c6f38175dc0f4d3cb1?s=80&d=identicon",
+          "web_url": "https://gitlab.com/natale-p"
+        },
+        "created_at": "2020-03-12T13:07:59.762Z",
+        "updated_at": "2020-03-12T13:07:59.762Z",
+        "system": false,
+        "noteable_id": 31840102,
+        "noteable_type": "Issue",
+        "resolvable": false,
+        "noteable_iid": 160,
         "award_emoji_data": []
       }
     ],

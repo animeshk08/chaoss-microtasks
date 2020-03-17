@@ -1,8 +1,8 @@
 {
   "backend_name": "GitHub",
-  "backend_version": "0.24.0",
+  "backend_version": "0.25.1",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918309.408227,
+  "timestamp": 1584463740.699773,
   "origin": "https://github.com/chaoss/grimoirelab-perceval",
   "uuid": "be2fc7c676023048e2619b4cc40397459a7ffd69",
   "updated_on": 1583685860.0,
@@ -101,12 +101,12 @@
       "email": "venuvardhanreddytekula8@gmail.com",
       "hireable": true,
       "bio": "Data Detective :chart_with_upwards_trend:",
-      "public_repos": 68,
+      "public_repos": 71,
       "public_gists": 8,
-      "followers": 107,
-      "following": 116,
+      "followers": 108,
+      "following": 118,
       "created_at": "2017-01-21T12:45:08Z",
-      "updated_at": "2020-03-10T21:22:50Z",
+      "updated_at": "2020-03-17T14:09:18Z",
       "organizations": [
         {
           "login": "amfoss",
@@ -237,12 +237,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -372,12 +372,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -512,7 +512,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -628,12 +628,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -750,7 +750,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -869,7 +869,7 @@
           "bio": null,
           "public_repos": 0,
           "public_gists": 0,
-          "followers": 160,
+          "followers": 159,
           "following": 0,
           "created_at": "2012-09-15T20:38:09Z",
           "updated_at": "2019-12-23T18:47:28Z",
@@ -965,7 +965,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -1081,12 +1081,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1203,7 +1203,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -1325,7 +1325,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -1441,12 +1441,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1576,12 +1576,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -1716,7 +1716,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -1814,12 +1814,12 @@
               "email": "venuvardhanreddytekula8@gmail.com",
               "hireable": true,
               "bio": "Data Detective :chart_with_upwards_trend:",
-              "public_repos": 68,
+              "public_repos": 71,
               "public_gists": 8,
-              "followers": 107,
-              "following": 116,
+              "followers": 108,
+              "following": 118,
               "created_at": "2017-01-21T12:45:08Z",
-              "updated_at": "2020-03-10T21:22:50Z",
+              "updated_at": "2020-03-17T14:09:18Z",
               "organizations": [
                 {
                   "login": "amfoss",
@@ -1950,12 +1950,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2090,7 +2090,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2211,7 +2211,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2309,12 +2309,12 @@
               "email": "venuvardhanreddytekula8@gmail.com",
               "hireable": true,
               "bio": "Data Detective :chart_with_upwards_trend:",
-              "public_repos": 68,
+              "public_repos": 71,
               "public_gists": 8,
-              "followers": 107,
-              "following": 116,
+              "followers": 108,
+              "following": 118,
               "created_at": "2017-01-21T12:45:08Z",
-              "updated_at": "2020-03-10T21:22:50Z",
+              "updated_at": "2020-03-17T14:09:18Z",
               "organizations": [
                 {
                   "login": "amfoss",
@@ -2445,12 +2445,12 @@
           "email": "venuvardhanreddytekula8@gmail.com",
           "hireable": true,
           "bio": "Data Detective :chart_with_upwards_trend:",
-          "public_repos": 68,
+          "public_repos": 71,
           "public_gists": 8,
-          "followers": 107,
-          "following": 116,
+          "followers": 108,
+          "following": 118,
           "created_at": "2017-01-21T12:45:08Z",
-          "updated_at": "2020-03-10T21:22:50Z",
+          "updated_at": "2020-03-17T14:09:18Z",
           "organizations": [
             {
               "login": "amfoss",
@@ -2585,7 +2585,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -2683,12 +2683,12 @@
               "email": "venuvardhanreddytekula8@gmail.com",
               "hireable": true,
               "bio": "Data Detective :chart_with_upwards_trend:",
-              "public_repos": 68,
+              "public_repos": 71,
               "public_gists": 8,
-              "followers": 107,
-              "following": 116,
+              "followers": 108,
+              "following": 118,
               "created_at": "2017-01-21T12:45:08Z",
-              "updated_at": "2020-03-10T21:22:50Z",
+              "updated_at": "2020-03-17T14:09:18Z",
               "organizations": [
                 {
                   "login": "amfoss",
@@ -2756,9 +2756,9 @@
   }
 }{
   "backend_name": "GitHub",
-  "backend_version": "0.24.0",
+  "backend_version": "0.25.1",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918316.370818,
+  "timestamp": 1584463750.266633,
   "origin": "https://github.com/chaoss/grimoirelab-perceval",
   "uuid": "2b43ede78bfeee00dd7654638c7437ed0d25402f",
   "updated_on": 1583692552.0,
@@ -2861,7 +2861,7 @@
       "email": "anatoli@rainforce.org",
       "hireable": true,
       "bio": "Cyberspace. Doughnut Economics. SustainOSS.\r\n\r\nanatoli@rainforce.org",
-      "public_repos": 150,
+      "public_repos": 151,
       "public_gists": 26,
       "followers": 40,
       "following": 63,
@@ -3058,7 +3058,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3174,7 +3174,7 @@
           "email": "anatoli@rainforce.org",
           "hireable": true,
           "bio": "Cyberspace. Doughnut Economics. SustainOSS.\r\n\r\nanatoli@rainforce.org",
-          "public_repos": 150,
+          "public_repos": 151,
           "public_gists": 26,
           "followers": 40,
           "following": 63,
@@ -3370,7 +3370,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3486,12 +3486,12 @@
           "email": "algogator@gmail.com",
           "hireable": true,
           "bio": null,
-          "public_repos": 55,
+          "public_repos": 56,
           "public_gists": 16,
           "followers": 12,
           "following": 17,
           "created_at": "2012-02-13T14:06:46Z",
-          "updated_at": "2020-03-05T16:04:36Z",
+          "updated_at": "2020-03-11T17:12:52Z",
           "organizations": []
         },
         "reactions_data": [
@@ -3551,7 +3551,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -3751,7 +3751,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -3993,7 +3993,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -4113,9 +4113,9 @@
           "public_repos": 85,
           "public_gists": 4,
           "followers": 11,
-          "following": 27,
+          "following": 28,
           "created_at": "2017-08-04T18:09:37Z",
-          "updated_at": "2020-03-11T09:11:33Z",
+          "updated_at": "2020-03-17T06:58:54Z",
           "organizations": [
             {
               "login": "openfoodfacts",
@@ -4222,7 +4222,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4338,24 +4338,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -4433,7 +4421,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4549,24 +4537,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -4626,7 +4602,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -4743,24 +4719,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -4838,7 +4802,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -4954,24 +4918,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -5031,7 +4983,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -5153,7 +5105,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5206,9 +5158,9 @@
   }
 }{
   "backend_name": "GitHub",
-  "backend_version": "0.24.0",
+  "backend_version": "0.25.1",
   "perceval_version": "0.12.24",
-  "timestamp": 1583918319.340936,
+  "timestamp": 1584463755.026012,
   "origin": "https://github.com/chaoss/grimoirelab-perceval",
   "uuid": "9e94244000d99746ead9900e4c8688450314181b",
   "updated_on": 1583692649.0,
@@ -5307,24 +5259,12 @@
       "email": null,
       "hireable": null,
       "bio": "Android| Data Science| Open Source",
-      "public_repos": 40,
+      "public_repos": 48,
       "public_gists": 0,
-      "followers": 4,
+      "followers": 5,
       "following": 2,
       "created_at": "2017-10-04T06:38:11Z",
-      "updated_at": "2020-03-11T00:33:49Z",
-      "private_gists": 0,
-      "total_private_repos": 5,
-      "owned_private_repos": 3,
-      "disk_usage": 117505,
-      "collaborators": 3,
-      "two_factor_authentication": false,
-      "plan": {
-        "name": "pro",
-        "space": 976562499,
-        "collaborators": 0,
-        "private_repos": 9999
-      },
+      "updated_at": "2020-03-17T15:31:35Z",
       "organizations": []
     },
     "assignee_data": {},
@@ -5398,24 +5338,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -5475,7 +5403,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -5597,7 +5525,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5713,24 +5641,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -5808,7 +5724,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -5926,7 +5842,7 @@
           "bio": null,
           "public_repos": 0,
           "public_gists": 0,
-          "followers": 160,
+          "followers": 159,
           "following": 0,
           "created_at": "2012-09-15T20:38:09Z",
           "updated_at": "2019-12-23T18:47:28Z",
@@ -6017,24 +5933,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -6094,7 +5998,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -6211,24 +6115,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -6288,7 +6180,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -6391,7 +6283,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -6508,24 +6400,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -6585,7 +6465,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -6688,7 +6568,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -6810,7 +6690,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -6908,24 +6788,12 @@
               "email": null,
               "hireable": null,
               "bio": "Android| Data Science| Open Source",
-              "public_repos": 40,
+              "public_repos": 48,
               "public_gists": 0,
-              "followers": 4,
+              "followers": 5,
               "following": 2,
               "created_at": "2017-10-04T06:38:11Z",
-              "updated_at": "2020-03-11T00:33:49Z",
-              "private_gists": 0,
-              "total_private_repos": 5,
-              "owned_private_repos": 3,
-              "disk_usage": 117505,
-              "collaborators": 3,
-              "two_factor_authentication": false,
-              "plan": {
-                "name": "pro",
-                "space": 976562499,
-                "collaborators": 0,
-                "private_repos": 9999
-              },
+              "updated_at": "2020-03-17T15:31:35Z",
               "organizations": []
             }
           }
@@ -6999,24 +6867,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": [
@@ -7076,7 +6932,7 @@
               "followers": 34,
               "following": 5,
               "created_at": "2014-01-27T14:30:30Z",
-              "updated_at": "2020-03-10T16:04:41Z",
+              "updated_at": "2020-03-17T10:02:44Z",
               "organizations": [
                 {
                   "login": "Bitergia",
@@ -7193,24 +7049,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -7283,24 +7127,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
@@ -7378,7 +7210,7 @@
           "followers": 34,
           "following": 5,
           "created_at": "2014-01-27T14:30:30Z",
-          "updated_at": "2020-03-10T16:04:41Z",
+          "updated_at": "2020-03-17T10:02:44Z",
           "organizations": [
             {
               "login": "Bitergia",
@@ -7494,24 +7326,12 @@
           "email": null,
           "hireable": null,
           "bio": "Android| Data Science| Open Source",
-          "public_repos": 40,
+          "public_repos": 48,
           "public_gists": 0,
-          "followers": 4,
+          "followers": 5,
           "following": 2,
           "created_at": "2017-10-04T06:38:11Z",
-          "updated_at": "2020-03-11T00:33:49Z",
-          "private_gists": 0,
-          "total_private_repos": 5,
-          "owned_private_repos": 3,
-          "disk_usage": 117505,
-          "collaborators": 3,
-          "two_factor_authentication": false,
-          "plan": {
-            "name": "pro",
-            "space": 976562499,
-            "collaborators": 0,
-            "private_repos": 9999
-          },
+          "updated_at": "2020-03-17T15:31:35Z",
           "organizations": []
         },
         "reactions_data": []
