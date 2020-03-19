@@ -171,9 +171,35 @@ Output logs of `script.py`:
 
 <img src="./images/Groupsio_Log.png" width="800" alt="Groupsio Log">
 
-8 . Open [groupsio.xlsx](./data/groupsio.xlsx) in any spreadsheet reader.
+8 . Open [groupsio.xlsx](./data/groupsio.xlsx) locally in any spreadsheet reader.
 
 Opening the file in LibreOffice Calc:
 
 <img src="./images/Groupsio_Excel.png" width="800" alt="Groupsio Excel Output">
+
+9 . To open the [groupsio.csv](./data/groupsio.csv) file on [Google Sheets](https://www.google.com/sheets/about/) follow the below steps:
+
+* Go to [Google Sheets](https://www.google.com/sheets/about/), sign in and create a spreadsheet
+ to which the CSV is to be imported.
+ 
+* Copy the Spreadsheet Id from the URL as shown below and update the `sheet_id` in [config.ini](./data/config.ini) file. Also set 
+  `csv_file` to the name of the CSV file you want to upload to Google Sheets.
+  
+<img src="./images/Google_sheets_sheetid.png" width="800" alt="Google Sheets spreadsheet id">  
+
+* Go to [Google Sheets API documentation](https://developers.google.com/sheets/api/quickstart/python) and click on 
+  `Enable the Google Sheets API`. This will enable the API and also download `credential.json` file. Paste the file
+   in the current working directory. 
+
+<img src="./images/Google_sheets_API_doc.png" width="800" alt="Google Sheets API DOC">
+
+* Run [import_gsheets.py](./data/import_gsheets.py). You will be prompted to Sign in to your Google Account the first
+  time, make sure you sign in using the same account used to create the spreadsheet. After successful Sign in a `token.pickle`
+  file will be download in your current working directory. This file will be used to avoid future Sign in prompts.
+     
+<img src="./images/Google_sheets_signin.png" width="800" alt="Google Sheets Sign in">  
+ 
+* Open the created spreadsheet again in your browser, the CSV will now be uploaded to the spreadsheet.
+  
+<img src="./images/Google_sheets_uploaded.png" width="800" alt="Google Sheets CSV uploaded">  
 
