@@ -16,12 +16,21 @@ import json
 
 
 def dump_json(path, resource_list):
+    """
+    Dumps the resources fetch into a json file.
+    :param path: path of the file to which the data is dumped
+    :param resource_list: list of resource items
+    """
     with open(path, "w") as file:
         for resource_item in resource_list:
             json.dump(resource_item, file)
 
 
 def fetch_github():
+    """
+    Fetches the data items(issues, pull requests and repository)
+    from a GitHub repository
+    """
     github = GitHub(owner=owner, repository=repository, api_token=[args.token], sleep_for_rate=True)
 
     # Printing Owner and Repository
@@ -38,6 +47,7 @@ def fetch_github():
                                         to_date=to_date, filter_classified=False)
     issue_list = list(issue_list_generator)
 
+    # Dump the data fetched into a JSON file
     dump_json("./GitHub_backend/github_issue.json", issue_list)
 
     issue = issue_list[0]
@@ -56,11 +66,11 @@ def fetch_github():
     print('*' * 50)
 
     # Fetch Pull Request data
-
     pr_list_generator = github.fetch(category=CATEGORY_PULL_REQUEST, from_date=from_date,
                                      to_date=to_date, filter_classified=False)
     pr_list = list(pr_list_generator)
 
+    # Dump the data fetched into a JSON file
     dump_json("./GitHub_backend/github_pr.json", pr_list)
 
     pr = pr_list[0]
@@ -78,12 +88,12 @@ def fetch_github():
     print('*' * 50)
 
     # Fetch repository data
-
     repo_list_generator = github.fetch(category=CATEGORY_REPO, from_date=from_date,
                                        to_date=to_date, filter_classified=False)
     repo_list = list(repo_list_generator)
     print("Number: ", len(repo_list))
 
+    # Dump the data fetched into a JSON file
     dump_json("./GitHub_backend/github_repo.json", repo_list)
 
     repo = repo_list[0]
@@ -105,6 +115,10 @@ def fetch_github():
 
 
 def fetch_gitlab():
+    """
+        Fetches the data items(issues and merge requests)
+        from a GitLab repository
+    """
     gitlab = GitLab(owner=owner, repository=repository, api_token=args.token, sleep_for_rate=True)
 
     # Printing Owner and Repository
@@ -119,6 +133,7 @@ def fetch_gitlab():
     issue_list_generator = gitlab.fetch(category=CATEGORY_ISSUE, from_date=from_date)
     issue_list = list(issue_list_generator)
 
+    # Dump the data fetched into a JSON file
     dump_json("./GitLab_backend/gitlab_issue.json", issue_list)
 
     issue = issue_list[0]
@@ -138,10 +153,10 @@ def fetch_gitlab():
     print('*' * 50)
 
     # Fetch Merge Request data
-
     pr_list_generator = gitlab.fetch(category=CATEGORY_MERGE_REQUEST, from_date=from_date)
     pr_list = list(pr_list_generator)
 
+    # Dump the data fetched into a JSON file
     dump_json("./GitLab_backend/gitlab_mr.json", pr_list)
 
     pr = pr_list[0]

@@ -13,7 +13,14 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 
 # Updates the sheet with csv data
-def upload_csv(csv_path, sheet_id, API):
+def upload_csv(csv_path, sheet_id, api):
+    """
+    Uploads a CSV file to Google Sheets
+
+    :param csv_path: Path to the CSV file to be uploaded
+    :param sheet_id: ID of Google Sheet
+    :param api: Google Sheets API object
+    """
     with open(csv_path, 'r') as csv_file:
         csvContents = csv_file.read()
     body = {
@@ -26,7 +33,7 @@ def upload_csv(csv_path, sheet_id, API):
         }]
     }
     # Create API request for updating the sheet data
-    request = API.spreadsheets().batchUpdate(spreadsheetId=sheet_id, body=body)
+    request = api.spreadsheets().batchUpdate(spreadsheetId=sheet_id, body=body)
     response = request.execute()
     return response
 
@@ -70,7 +77,7 @@ def main():
     upload_csv(
         csv_path=path_to_csv,
         sheet_id=sheet_id,
-        API=API
+        api=API
     )
     print("Upload Finished\n")
 
