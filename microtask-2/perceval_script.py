@@ -15,8 +15,13 @@ import dateutil
 import json
 
 
-def fetch_github():
+def dump_json(path, resource_list):
+    with open(path, "w") as file:
+        for resource_item in resource_list:
+            json.dump(resource_item, file)
 
+
+def fetch_github():
     github = GitHub(owner=owner, repository=repository, api_token=[args.token], sleep_for_rate=True)
 
     # Printing Owner and Repository
@@ -33,9 +38,7 @@ def fetch_github():
                                         to_date=to_date, filter_classified=False)
     issue_list = list(issue_list_generator)
 
-    with open("./GitHub_backend/github_issue.json", "w") as file:
-        for issues in issue_list:
-            json.dump(issues, file)
+    dump_json("./GitHub_backend/github_issue.json", issue_list)
 
     issue = issue_list[0]
     # Printing some features of the issue
@@ -58,9 +61,7 @@ def fetch_github():
                                      to_date=to_date, filter_classified=False)
     pr_list = list(pr_list_generator)
 
-    with open("./GitHub_backend/github_pr.json", "w") as file:
-        for prs in pr_list:
-            json.dump(prs, file)
+    dump_json("./GitHub_backend/github_pr.json", pr_list)
 
     pr = pr_list[0]
     # Printing some features of the repository data
@@ -83,9 +84,7 @@ def fetch_github():
     repo_list = list(repo_list_generator)
     print("Number: ", len(repo_list))
 
-    for repos in repo_list:
-        with open("./GitHub_backend/github_repo.json", "w") as file:
-            json.dump(repos, file)
+    dump_json("./GitHub_backend/github_repo.json", repo_list)
 
     repo = repo_list[0]
 
@@ -120,9 +119,7 @@ def fetch_gitlab():
     issue_list_generator = gitlab.fetch(category=CATEGORY_ISSUE, from_date=from_date)
     issue_list = list(issue_list_generator)
 
-    with open("./GitLab_backend/gitlab_issue.json", "w") as file:
-        for issues in issue_list:
-            json.dump(issues, file)
+    dump_json("./GitLab_backend/gitlab_issue.json", issue_list)
 
     issue = issue_list[0]
 
@@ -145,9 +142,7 @@ def fetch_gitlab():
     pr_list_generator = gitlab.fetch(category=CATEGORY_MERGE_REQUEST, from_date=from_date)
     pr_list = list(pr_list_generator)
 
-    with open("./GitLab_backend/gitlab_mr.json", "w") as file:
-        for prs in pr_list:
-            json.dump(prs, file)
+    dump_json("./GitLab_backend/gitlab_mr.json", pr_list)
 
     pr = pr_list[0]
 
